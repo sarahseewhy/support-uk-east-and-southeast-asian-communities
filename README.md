@@ -14,6 +14,7 @@ _Allyship is action, not just awareness raising and self-education._
 * [Kanlungan](https://www.kanlungan.org.uk/?page_id=6)
 * [besea.n](https://www.besean.co.uk/)
 * [Hackney Chinese Community Services](https://www.hackneychinese.org.uk/)
+* [End the virus of racism](https://www.endthevirusofracism.com)
 
 ### Arts & literature organisations
 * [New Earth Theatre](https://yellowearth.org/support-yellow-earth/)
