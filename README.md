@@ -20,3 +20,12 @@ _Allyship is action, not just awareness raising and self-education._
 * [Dear Asian Youth](https://www.dearasianyouth.org/)
 * [Don’t Call Me Oriental](https://www.dontcallmeoriental.com/)
 * [Remember and Resist Zine](https://daikon.co.uk/)
+
+
+#### How to contribute
+
+Feel free to suggest new organisations, sections, etc.
+
+1. Raise a GitHub issue
+2. Describe the proposed change (if it's a new organisation please provie the org name and URL)
+3. Submit the issue
